@@ -57,6 +57,6 @@ This system helps reduce response time and improves safety for elderly and vulne
 
 ## Author
 
-Nithin ,
+K Nithin Kumar Goud ,
 Electronics \& Communication Engineering
 
