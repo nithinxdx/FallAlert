@@ -1,0 +1,7 @@
+Arduino IDE
+ESP32 Board Package
+MPU6050 Library
+Wire (I2C) Library
+WiFi Library
+HTTPClient Library
+GSM AT Command Library (SIM800/SIM900)
